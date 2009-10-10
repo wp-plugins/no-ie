@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: lupomontero, svnlto
-Tags: ie, ie6, internet explorer, internet explorer 6, no ie, browser
+Tags: ie, ie6, ie7, internet explorer, internet explorer 6, internet explorer 7, no ie, browser
 Requires at least: 2.8
 Tested up to: 2.8.4
 Stable tag: trunk
