@@ -1,0 +1,82 @@
+div.no-ie-wrapper {
+    font-family: "Helvetica", sans-serif;
+    font-size: 12px;
+    color: #333333;
+    text-align: left;
+    background-color: white;
+    margin: 10px 20% 30px 20%;
+    padding: 20px;
+}
+
+div.no-ie-wrapper div,
+div.no-ie-wrapper ul,
+div.no-ie-wrapper li
+{
+	text-align: left;
+    margin: 0;
+    padding: 0;
+}
+
+div.no-ie-wrapper img
+{
+    border: 0;
+}
+
+div.no-ie-wrapper li
+{
+    list-style: none;
+}
+
+div.no-ie-wrapper a
+{
+    color: #8C413A;
+    text-decoration: none;
+}
+
+div.no-ie-wrapper div.no-ie-oops
+{
+	font-size: 2em;
+	padding-bottom: 15px;
+}
+
+div.no-ie-wrapper div.no-ie-info
+{
+	padding-bottom: 15px;
+}
+
+div.no-ie-wrapper li.firefox,
+div.no-ie-wrapper li.safari,
+div.no-ie-wrapper li.chrome,
+div.no-ie-wrapper li.opera,
+div.no-ie-wrapper li.camino
+{
+	height: 34px;
+	padding: 6px 0px 0px 44px;
+	background-repeat: no-repeat;
+	font-size: 1.5em;
+}
+
+div.no-ie-wrapper li.firefox
+{
+	background-image: url(firefox.png);
+}
+
+div.no-ie-wrapper li.safari
+{
+    background-image: url(safari.png);
+}
+
+div.no-ie-wrapper li.chrome
+{
+    background-image: url(chrome.png);
+}
+
+div.no-ie-wrapper li.opera
+{
+    background-image: url(opera.png);
+}
+
+div.no-ie-wrapper li.camino
+{
+    background-image: url(camino.png);
+}
